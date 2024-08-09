@@ -1,14 +1,12 @@
-# polite-sheep-7319
 
-# HEALTH & FITNESS REACT APP
-
------
-### Version 1 : 
+ HEALTH & FITNESS REACT APP
 
 
-Health & Fitness-Website  [HERE!](https://healthfitness1reactapp.netlify.app/)
 
-**Progress:**
+
+Health & Fitness-Website   [HERE!](https://healthfitness1reactapp.netlify.app/)
+
+Progress:
 
 Version 1 completed and hosted
 
